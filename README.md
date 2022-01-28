@@ -1,7 +1,7 @@
 # SAS_Global_CuriosityCup
 
 
-The Curiosity Cup brings student teams together from across the globe for a competition of real-world analytics skills
+The Curiosity Cup brings student teams together from across the globe for a 1 month competition of real-world analytics skills
 Competiton link - https://www.sas.com/en_us/offers/21q4/curiosity-cup.html
 
 ## Task / Project Description 
@@ -18,10 +18,10 @@ Our project aims to identify LOS predicting factors besides the provision of act
 - CuriosityCup_StayAlert for predicting inpatient Length of Stay (LOS).pdf - full report from project 
 - SasCuriosityCup_StayAlert_.sas - SAS studio code
 
-#### team members: 
+#### Team members: 
 - Mamiya Adachi 
 - Rehab Meckawy 
 - Daksh Mukhra
 
-#### placement: 
+#### Placement: 
 - currently awaiting results of competition 
