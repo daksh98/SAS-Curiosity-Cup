@@ -2,6 +2,7 @@
 
 
 The Curiosity Cup brings student teams together from across the globe for a competition of real-world analytics skills
+Competiton link - https://www.sas.com/en_us/offers/21q4/curiosity-cup.html
 
 ## Task / Project Description 
 
