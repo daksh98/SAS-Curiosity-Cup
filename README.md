@@ -6,7 +6,7 @@ Competiton link - https://www.sas.com/en_us/offers/21q4/curiosity-cup.html
 
 ## Task / Project Description 
 
-With a team of students from Egypt Japan and Australia, we set out to explore the relation between the length of hospital stay and various factors. The Analysis was done primarily on SAS Studio and the was sourced from https://www.kaggle.com/nehaprabhavalkar/av-healthcare-analytics-ii. 
+With a team of students from Egypt Japan and Australia, we set out to explore the relation between the length of hospital stay and various factors. The Analysis was done primarily on SAS Studio and was sourced from https://www.kaggle.com/nehaprabhavalkar/av-healthcare-analytics-ii. 
 
 ### PROBLEM
 During the Covid-19 crisis, health systems in both developed and developing countries have witnessed an unprecedented surge in patients’ inflow. Emergency departments and hospital aisles were being filled with occupied beds. Moreover, many Covid-19 and non-pandemic cases were hindered from accessing healthcare due to hospitals’ overfilled capacity. This strain on hospitals’ capacity is greatly attributed to the uncertainty of prospective inpatient Length of Stay (LOS) for each patient.
